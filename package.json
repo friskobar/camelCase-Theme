@@ -3,11 +3,22 @@
   "displayName": "camelCase",
   "description": "Theme created by friskobar for c++ development",
   "version": "0.0.1",
+  "publisher": "Friskobar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/friskobar/camelCase-Theme"
+  },
   "engines": {
     "vscode": "^1.87.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Friskobar",
+    "Dark Theme",
+    "C++"
   ],
   "contributes": {
     "themes": [
