@@ -1,8 +1,8 @@
 {
   "name": "frisk-cc",
-  "displayName": "camelCase",
+  "displayName": "camelCaseTheme",
   "description": "Theme created by friskobar for c++ development",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Friskobar",
   "repository": {
     "type": "git",
@@ -28,5 +28,6 @@
         "path": "./themes/camelCase-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "camelCase.png"
 }
