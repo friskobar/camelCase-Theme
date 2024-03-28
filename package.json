@@ -2,7 +2,7 @@
   "name": "frisk-cc",
   "displayName": "camelCaseTheme",
   "description": "Theme created by friskobar for c++ development",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "publisher": "Friskobar",
   "repository": {
     "type": "git",

@@ -44,7 +44,8 @@
 				"variable",
 				"string constant.other.placeholder",
 				"variable.other.local.cpp",
-				"storage.type.primitive"
+				"storage.type.primitive",
+				"support.variable.glsl"
 			],
 			"settings": {
 				"foreground": "#00a2ff"
@@ -124,6 +125,7 @@
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
+				"source.glsl",
 				"meta.function-call",
 				"variable.function",
 				"support.function",
@@ -204,7 +206,8 @@
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
 				"support.type.sys-types",
-				"storage.type.primitive"
+				"storage.type.primitive",
+				"storage.type.glsl"
 			],
 			"settings": {
 				"foreground": "#FFCB6B"
